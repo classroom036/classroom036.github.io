@@ -7,15 +7,15 @@
 "Introduction to Computer Networks"  
 **all notes** - [eee484](https://v.gd/eee484)  
   
-week1:  
+*Week1:  
   
 "What's the Internet, Cool internet appliances, Internet protocols"  
 **tr/eng** - [eee484w1](https://v.gd/eee484w1)  
   
-week2:  
+*Week2:  
 
 # EEE 5841 Deep Learning  
-week1:  
+*Week1:  
   
 "Yapay zeka"  
 **tr** - [eee5841w1tr](https://v.gd/eee5841w1tr)  
@@ -23,7 +23,7 @@ week1:
 "Artificial intelligence"  
 **eng** - [eee5841w1eng](https://v.gd/eee5841w1eng)  
   
-week2:  
+*Week2:  
   
 "Yapay sinir ağlarına giriş"  
 **tr** - [eee5841w2tr](https://v.gd/eee5841w2tr)  
@@ -31,4 +31,4 @@ week2:
 "Introduction to artificial neural networks"  
 **eng** - [eee5841w2eng](https://v.gd/eee5841w2eng)  
   
-week3:  
+*Week3:  
