@@ -7,7 +7,7 @@
 "Introduction to Computer Networks" **all notes** - [eee484](https://v.gd/eee484)  
   
 week1:  
-**tr/eng** - [eee484w1](https://v.gd/eee484w1)  
+"What's the Internet, Cool internet appliances, Internet protocols" **tr/eng** - [eee484w1](https://v.gd/eee484w1)  
   
 week2:  
 
