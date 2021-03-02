@@ -13,11 +13,11 @@ week2:
 
 # EEE 5841 Deep Learning  
 week1:  
-**tr** - [eee5841w1tr](https://v.gd/eee5841w1tr)  
-**eng** - [eee5841w1eng](https://v.gd/eee5841w1eng)  
+"Yapay zeka" **tr** - [eee5841w1tr](https://v.gd/eee5841w1tr)  
+"Artificial intelligence" **eng** - [eee5841w1eng](https://v.gd/eee5841w1eng)  
   
 week2:  
-**tr** - [eee5841w2tr](https://v.gd/eee5841w2tr)  
-**eng** - [eee5841w2eng](https://v.gd/eee5841w2eng)  
+"Yapay sinir ağlarına giriş" **tr** - [eee5841w2tr](https://v.gd/eee5841w2tr)  
+"Introduction to artificial neural networks" **eng** - [eee5841w2eng](https://v.gd/eee5841w2eng)  
   
 week3:  
