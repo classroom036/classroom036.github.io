@@ -5,7 +5,6 @@
 
 # EEE 484 Introduction to Computer Networks  
 "Introduction to Computer Networks"  
-  
 **all notes** - [eee484](https://v.gd/eee484)  
   
 week1:  
@@ -20,6 +19,7 @@ week1:
   
 "Yapay zeka"  
 **tr** - [eee5841w1tr](https://v.gd/eee5841w1tr)  
+  
 "Artificial intelligence"  
 **eng** - [eee5841w1eng](https://v.gd/eee5841w1eng)  
   
@@ -27,6 +27,7 @@ week2:
   
 "Yapay sinir ağlarına giriş"  
 **tr** - [eee5841w2tr](https://v.gd/eee5841w2tr)  
+  
 "Introduction to artificial neural networks"  
 **eng** - [eee5841w2eng](https://v.gd/eee5841w2eng)  
   
