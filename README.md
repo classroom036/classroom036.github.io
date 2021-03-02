@@ -12,7 +12,7 @@
 "What's the Internet, Cool internet appliances, Internet protocols"  
 **tr/eng** - [eee484w1](https://v.gd/eee484w1)  
   
-*Week2:  
+**Week2:  
 
 # EEE 5841 Deep Learning  
 *Week1:  
