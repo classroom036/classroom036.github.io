@@ -1,5 +1,7 @@
-# 2021 Spring Lecture Notes Links
+# Lecture Notes Links
 2021 Spring Lecture Notes Links  
+* EEE484 Introduction to Computer Networks  
+* EEE5841 Deep Learning  
 
 # EEE484 Introduction to Computer Networks  
 **all notes** - [eee484](https://v.gd/eee484)  
