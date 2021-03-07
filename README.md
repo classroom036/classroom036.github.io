@@ -9,26 +9,36 @@
   
 * Week1:  
   
-"What's the Internet, Cool internet appliances, Internet protocols"  
 **tr/eng** - [eee484w1](https://v.gd/eee484w1)  
   
 * Week2:  
-
+  
+**tr/eng** - [eee484w2](https://v.gd/eee484w2)  
+  
+* Week3:  
+  
+**tr/eng** - [eee484w2](https://v.gd/eee484w3)  
+  
+* Week4:  
+  
 # EEE 5841 Deep Learning  
 * Week1:  
   
-"Yapay zeka"  
 **tr** - [eee5841w1tr](https://v.gd/eee5841w1tr)  
   
-"Artificial intelligence"  
 **eng** - [eee5841w1eng](https://v.gd/eee5841w1eng)  
   
 * Week2:  
   
-"Yapay sinir ağlarına giriş"  
 **tr** - [eee5841w2tr](https://v.gd/eee5841w2tr)  
   
-"Introduction to artificial neural networks"  
 **eng** - [eee5841w2eng](https://v.gd/eee5841w2eng)  
   
 * Week3:  
+  
+**tr** - [eee5841w2tr](https://v.gd/eee5841w3tr)  
+  
+**eng** - [eee5841w2eng](https://v.gd/eee5841w3eng)  
+  
+* Week4: 
+  
