@@ -36,9 +36,9 @@
   
 * Week3:  
   
-**tr** - [eee5841w3tr](https://v.gd/eee5841w3tr)  
+**tr** - [eee5841w3tr](https://v.gd/eee5841w3tr2)  
   
-**eng** - [eee5841w3eng](https://v.gd/eee5841w3eng)  
+**eng** - [eee5841w3eng](https://v.gd/eee5841w3eng2)  
   
 * Week4: 
   
