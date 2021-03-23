@@ -21,6 +21,10 @@
   
 * Week4:  
   
+**tr/eng** - [eee484w4](https://v.gd/eee484w4)  
+  
+* Week5:  
+  
 # EEE 5841 Deep Learning  
 * Week1:  
   
